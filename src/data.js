@@ -32,3 +32,8 @@ export const projects = [
       link: "https://pythonbootcamp.com",
     },
   ];
+
+  export const skills = [
+  ];
+
+  export const testimonials =[];
